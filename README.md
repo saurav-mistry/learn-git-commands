@@ -1,1 +1,7 @@
-# learn-git-commands
+## learn-git-commands
+
+# Initialise git repository
+
+` git init `
+
+
